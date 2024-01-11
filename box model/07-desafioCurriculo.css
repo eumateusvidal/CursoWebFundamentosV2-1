@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1-curriculo {
+  color: rgb(0, 60, 255);
+  background-color: rgba(0, 0, 255, 0.10);
+  width: 100%;
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 2.5rem;
+}
+
+.p1-curriculo {
+  font-size: 1rem;
+  color: #797979;
+}
+
+.p1-curriculo-first {
+  text-align: center;
+  font-size: 1rem;
+  color: #797979;
+}
+
+.h2-curriculo {
+  background-color: #ccc;
+  font-size: 2rem;
+  padding: 1rem 0.5rem;
+  color: #003cff;
+}
+
+.p2-curriculo {
+  font-size: 1rem;
+  color: black;
+  font-weight: bold;
+}
+
+b {
+  color: #003cff;
+}
+
+.h3-curriculo-big {
+  font-size: 1.25rem;
+}
+
+ul li {
+  list-style: square;
+}
