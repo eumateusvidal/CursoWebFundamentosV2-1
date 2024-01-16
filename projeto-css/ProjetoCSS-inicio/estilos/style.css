@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ccc;
+}
+
+.hero {
+  background-image: url(../imagens/bg-3.jpg);
+  height: 31.25rem;
+  background-size: cover;
+  background-position: right center;
+}
