@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  background-color: rgb(255, 122, 122);
+  padding: 2rem 1rem;
+}
+
+h2 {
+  background-color: rgb(122, 255, 200);
+  width: 90%;
+  margin: 2rem;
+}
+
+p {
+  background-color: #ccc;
+}
+
+.destaque {
+  background-color: orange;
+}
+
+.size-teste {
+  width: 50%;
+  height: 100px;
+}
