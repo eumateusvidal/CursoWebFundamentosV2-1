@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin: auto;
+  text-align: center;
+  background-color: yellow;
+  width: 12.5rem;
+}
