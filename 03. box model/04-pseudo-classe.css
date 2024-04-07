@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  color: red;
+}
+
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: chartreuse;
+}
