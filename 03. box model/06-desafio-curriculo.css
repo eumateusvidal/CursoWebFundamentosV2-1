@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  background-color: aqua;
+  font-size: 3rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  background-color: #ccc;
+  font-size: 2rem;
+  padding: 1rem;
+  border-bottom: 0.5rem;
+  border-bottom-color: blue;
+}
+
+.desc {
+  text-align: center;
+}
