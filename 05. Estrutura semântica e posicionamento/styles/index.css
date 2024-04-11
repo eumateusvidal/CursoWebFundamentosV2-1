@@ -88,6 +88,10 @@ article h2{
   border-radius: 0.5rem;
 }
 
-footer{
+.rodape{
   text-align: center;
+  color: white;
+  background-color: #6b6c68;
+  padding: 2rem;
+  text-shadow: 2px 2px 2px black;
 }
