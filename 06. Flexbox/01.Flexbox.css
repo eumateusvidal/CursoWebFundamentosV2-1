@@ -1,0 +1,65 @@
+.flexbox  {
+  height: 15.625rem;
+  border: 3px solid red;
+  display: flex;
+  margin-bottom: 1rem;
+  /* flex-wrap: wrap;
+  flex-direction: column-reverse; */
+  flex-flow: row wrap;
+}
+
+.flexbox div {
+  border: 2px solid orange;
+  width: 18.75rem;
+  margin: 1rem;
+}
+
+.flex-container1 {
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+  flex-flow: row wrap;
+}
+
+.flex-container2 {
+  justify-content: space-evenly;
+}
+
+.flex-container2 div {
+width: 2rem;
+margin: 0;
+}
+
+.flex-container3 {
+  justify-content: space-around;
+  align-items: center;
+}
+
+.flex-container3 div {
+width: 2rem;
+margin: 0;
+}
+
+.flex-container4 {
+  justify-content: space-around;
+  align-items: baseline;
+}
+
+.flex-container4 div {
+width: 2rem;
+margin: 0;
+}
+
+.is-div2 {
+  font-size: 4rem;
+}
+
+.flex-container5 {
+  justify-content: center;
+  /* align-items: flex-end; */
+  align-content: stretch;
+  flex-wrap: wrap;
+}
+
+.flex-container5 div{
+  width: 10rem;
+}
