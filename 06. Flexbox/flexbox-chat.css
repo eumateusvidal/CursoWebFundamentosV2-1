@@ -1,0 +1,11 @@
+/* CSS */
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 200px;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
